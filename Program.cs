@@ -229,7 +229,7 @@ namespace JJJ12
 /*
             // 기존의 존재하던 클래스로 함수를 만들경우 자동으로 동일한 형태의 함수로 제작된다.
             // 유니티에서 코루틴 다룰 때 자주 쓴다고 함.
-            IEnumerator count = Counter();
+            IEnumerator count = Counter();sss
             count.MoveNext();
             count.MoveNext();
             count.MoveNext();
